@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\Eller\\anaconda3\\python.exe"
+}
